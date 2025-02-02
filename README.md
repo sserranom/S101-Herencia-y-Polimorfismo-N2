@@ -1,4 +1,4 @@
-****Descripción - Enunciado del ejercicio****
+***S101. Herencia y Polimorfismo- Ejercicio1 Nivel 2***
 
 Crea una clase llamada "Teléfono" con los atributos marca y modelo, y el método llamar(). Este método debe recibir un String con un número de teléfono. El método debe mostrar por consola un mensaje diciendo que se está llamando al número recibido por parámetro. 
 Crea una interfaz llamada "Cámara" con el método fotografiar(), y otra interfaz llamada Reloj con el método alarma().
